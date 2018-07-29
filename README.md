@@ -36,5 +36,15 @@ Links that are useful and want to them to keep them here on the repository:
 
 [Intel Developer Manual ](https://software.intel.com/en-us/articles/intel-sdm)
 
+[x86 Instruction Set Reference](https://c9x.me/x86/)
 
+[how to accept input with a large (multi-digit) number](https://stackoverflow.com/questions/39296675/how-to-accept-input-with-a-large-multi-digit-number#)
+
+[asm Tutorial](http://www.bogotobogo.com/cplusplus/assembly.php)
+
+[x86 Assembly wiki](https://www.aldeid.com/wiki/Category:Architecture/x86-assembly)
+
+[iAPx86 - Norton Guide](http://www.ousob.com/ng/iapx86/)
+
+[Data Types and Memory Allocation](http://www.c-jump.com/CIS77/ASM/DataTypes/lecture.html)
 
